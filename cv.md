@@ -21,3 +21,4 @@ So far I have achieved nothing.
 * skills: javascript, css, html, python, java, r, go, haskell, matplab, c++;
 * code example: `<html><header></header><body><h1>hi!</h1></body></html>`
 * experience: nope;
+* ecucation: culinary college;
